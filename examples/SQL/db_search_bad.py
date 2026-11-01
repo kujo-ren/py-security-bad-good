@@ -1,3 +1,4 @@
+# db_search_bad.py
 import sqlite3
 
 def search_user(username: str):
